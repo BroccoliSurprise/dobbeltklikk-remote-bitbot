@@ -1,0 +1,21 @@
+{
+    "name": "Dobbeltklikk-remote-BitBot-CH8",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "BitBot": "github:4tronix/bitbot#1.4.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
